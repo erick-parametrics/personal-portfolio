@@ -21,7 +21,7 @@ export const projects = [
   {
     title: "Finna",
     description: "Description here.",
-    image: "/images/3.jpg",
+    image: "/images/finna.jpg",
     tags: ["Mongo", "Express", "React", "Node"],
     source: "https://github.com/enukeWebDev/finna",
     visit: "https://github.com/enukeWebDev/finna",
