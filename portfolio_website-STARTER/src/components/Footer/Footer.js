@@ -20,12 +20,14 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href="tel: 111-111-1111">tel: 111-111-1111</LinkItem>
+          <LinkItem href="tel: 111-111-1111">tel: 306-514-2221</LinkItem>
         </LinkColumn>
 
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href="mailto:abc@gmail.com">email: abc@gmail.com</LinkItem>
+          <LinkItem href="mailto:erick@parametrics.ag">
+            ericknuque23@gmail.com
+          </LinkItem>
         </LinkColumn>
       </LinkList>
 
