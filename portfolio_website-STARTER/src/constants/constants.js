@@ -5,9 +5,9 @@ export const projects = [
       "Using React, NextJS, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
     image: "/images/meetup.jpg",
     tags: ["Mongo", "Express", "React", "NextJS"],
-    source:
+    source: "https://garsparametricsmeetingtracker.vercel.app/",
+    visit:
       "https://github.com/erick-parametrics/meetup-page/tree/main/meetup-app",
-    visit: "https://garsparametricsmeetingtracker.vercel.app/",
     id: 0,
   },
   {
