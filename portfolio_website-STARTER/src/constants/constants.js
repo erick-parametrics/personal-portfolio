@@ -11,13 +11,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: "E-Commerce",
-    description:
-      "While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
-    image: "/images/2.png",
+    title: "Quote of the Day",
+    description: "Description here.",
+    image: "/images/quote.jpg",
     tags: ["React", "JavaScript"],
-    source: "https://google.com",
-    visit: "https://google.com",
+    source: "https://hardcore-cori-a08f79.netlify.app/",
+    visit: "https://github.com/enukeWebDev/quote_of_the_day",
     id: 1,
   },
   {
