@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Meeting Trackers",
+    title: "Meeting Tracker",
     description: "Description here.",
     image: "/images/meetup.jpg",
     tags: ["Mongo", "Javascript", "React", "NextJS"],

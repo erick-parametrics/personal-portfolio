@@ -19,9 +19,7 @@ const Hero = (props) => (
       </SectionText>
 
       <Button
-        onClick={() =>
-          (window.location = "https://github.com/erick-parametrics")
-        }
+        onClick={() => (window.location = "https://github.com/enukeWebDev")}
       >
         Learn More
       </Button>

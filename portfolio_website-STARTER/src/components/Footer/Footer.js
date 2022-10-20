@@ -36,11 +36,11 @@ const Footer = () => {
           <Slogan>Making an impact in the AgriTech industry!</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com">
+          <SocialIcons href="https://github.com/enukeWebDev">
             <AiFillGithub size="3rem" />
           </SocialIcons>
 
-          <SocialIcons href="https://linkedin.com">
+          <SocialIcons href="https://www.linkedin.com/feed/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
 

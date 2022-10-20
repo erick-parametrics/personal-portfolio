@@ -39,7 +39,8 @@ const Technologies = () => (
             {/* Language: <br /> */}
             React.js
             <br />
-            Next.js
+            Next.js <br />
+            jQuery <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -47,11 +48,14 @@ const Technologies = () => (
       <ListItem>
         <DiNodejsSmall size="3rem" />
         <ListContainer>
-          <ListTitle>Back-End</ListTitle>
+          <ListTitle>Back-End/Database</ListTitle>
           <ListParagraph>
             {/* Language: <br /> */}
             Node.js <br />
-            Express.js
+            Express.js <br />
+            MongoDB <br />
+            SQL (PostgreSQL, mySQL)
+            <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -59,11 +63,13 @@ const Technologies = () => (
       <ListItem>
         <DiFirebase size="3rem" />
         <ListContainer>
-          <ListTitle>Database</ListTitle>
+          <ListTitle>Others</ListTitle>
           <ListParagraph>
             {/* Language: <br /> */}
-            MongoDB <br />
-            SQL
+            Git/Github <br />
+            Docker <br />
+            Software Development Life Cycle <br />
+            Software Documentation & Testing <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
